@@ -10962,5 +10962,7 @@
     "DFIntBatchWorkflowMaxWaitMs": "120",
     "DFIntBatchWorkflowMinWaitMs": "30",
     "FFlagManagedJointJointInstance675": "True",
+    "FFlagLuaAppSduiOmniFeedStats": "True",
+    "FIntDiscoveryFeedStatsHundredthsPercent": "10000",
     "DFFlagSimOptimizeSetThrottle2_Staged": "false"
 }
