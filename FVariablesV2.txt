@@ -10796,7 +10796,7 @@
     "FStringPlatformExcellenceVRSpatialUILayer": "PlatformExcellence.VR.SpatialUI",
     "FStringPointAndClickDefaultExperimentLayer": "Engine.Interactivity.InputAndControls.PointAndClickDefault",
     "FStringPreferredTextSizeSettingBetaFeatureUrl": "",
-    "FStringPrivateServerLinkURL": "https?:\\/\\/\\w+\\.roblox(?:labs)?\\.com\\/games\\/(\\d+)(?:\\/.+)?\\?privateServerLinkCode=((?:\\w|-)+)",
+    "FStringPrivateServerLinkURL": "https?:\/\/\\w+\\.roblox(?:labs)?\\.com\/games\/(\\d+)(?:\/.+)?\\?privateServerLinkCode=((?:\\w|-)+)",
     "FStringR15MigratorBetaFeatureUrl": "",
     "FStringRbxAnalyticsSessionsAllowlist": "screenLoaded",
     "FStringRealtimeIxpLayer": "RealtimeDeliveryLayer",
@@ -10947,5 +10947,5 @@
     "FIntSSAO": "4",
     "FFlagTextureManagerFixMipReduceLimit": "false",
     "FFlagTextureManagerFixMipReduceRestore": "false",
-    "DFFlagEnableRequestAsyncCompression": "true",
+    "DFFlagEnableRequestAsyncCompression": "true"
 }
