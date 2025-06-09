@@ -276,7 +276,6 @@
     "DFFlagCoreScriptTelemetry2": false,
     "DFFlagCoreSettingsMasterVolume": true,
     "DFFlagCorrectRccDiscoCodeOnLostConnection": true,
-    "DFFlagCorrectServerReplicatorStatsIP": true,
     "DFFlagCrash155229Fix": True,
     "DFFlagCrashOnInconsistentJoint": false,
     "DFFlagCreateAnimationThrottlingInertializer": false,
