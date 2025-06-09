@@ -10948,5 +10948,11 @@
     "FFlagMeshImporterStudsPerMeterUseNewValue": "True",
     "FFlagStudioCancelPluginLoadingOnPlaySoloFailure": "True",
     "FFlagStudioPluginLoadingOnFibers3": "True",
+    "FFlagEnableSeamlessVoiceV2v2": "True",
+    "FFlagAXTryOnAvatarDetailsSuperBrief": "True",
+    "FFlagDisconnectToastClientRewrite": "True",
+    "FFlagSendUserConnectionStatus": "True",
+    "FFlagSeamlessVoiceV2JoinVoiceToast": "True",
+    "FFlagShowJoinVoiceRaceConditionFix": "True",
     "DFFlagSimOptimizeSetThrottle2_Staged": "false"
 }
