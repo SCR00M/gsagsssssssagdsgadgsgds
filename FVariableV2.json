@@ -10937,7 +10937,7 @@
     "FFlagSupportVorbisInOggOutputFormat": "True",
     "FFlagVideoSupportAlternateAudioCodecsInMp4": "True",
     "FFlagLuauCSTForReturnTypeFunctionTail": "True",
-    "DFFlagSimSolverInsideOfSphereGS": "True",
+    "DFFlagSimSolverInsideOfSphereGS": "False",
     "DFIntBatchWorkflowMaxBatchSize": "256",
     "DFIntBatchWorkflowMaxWaitMs": "120",
     "DFIntBatchWorkflowMinWaitMs": "30",
