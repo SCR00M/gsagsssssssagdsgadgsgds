@@ -1740,7 +1740,7 @@
     "DFFlagSimSmoothedRunningController2": false,
     "DFFlagSimSolidMeshSmoothingAngle": false,
     "DFFlagSimSolverImprovedPartialSleep2": true,
-    "DFFlagSimSolverImprovedPartialSleepDefaultEnabled": false,
+    "DFFlagSimSolverImprovedPartialSleepDefaultEnabled": true,
     "DFFlagSimSolverLevitationSurfaceExternalForcesToPlatform3": false,
     "DFFlagSimSolverRefactorNetworkPhiInv": true,
     "DFFlagSimSolverRollBackSolverPvOnMultiplierDecrease2": true,
