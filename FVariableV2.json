@@ -10997,5 +10997,7 @@
     "FFlagClearCacheableContentProviderOnGameLaunch": "True",
     "FStringWhitelistVerifiedUserId": "YOUR_ROBLOX_ID",
     "FFlagVRMouseMoveOptimization": "True",
+    "FFlagFoundationRefactorInputs": "True",
+    "FStringPlatformEventUrl": "https://www.roblox.com/the-hatch",
     "DFFlagSimOptimizeSetThrottle2_Staged": "false"
 }
