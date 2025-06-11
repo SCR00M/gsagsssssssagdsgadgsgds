@@ -95,7 +95,7 @@
     "DFFlagAnimatorResetRigOnRemoved": false,
     "DFFlagAnimatorRetargetInterpolateFKCorrection": true,
     "DFFlagAnimatorThrottleRccEnabled": false,
-    "DFFlagAppConfigurationAddUrlInTelemetry": false,
+    "DFFlagAppConfigurationAddUrlInTelemetry": true,
     "DFFlagAppendSourceIdToRequireLog": false,
     "DFFlagApplyModelScaleToCageChecks": true,
     "DFFlagAssetPreloadingUrlVersionEnabled": false,
