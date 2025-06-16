@@ -1453,7 +1453,6 @@
     "DFFlagRenderRecordLongestShaderTime2": true,
     "DFFlagRenderRecordMemoryInShaderTime2": true,
     "DFFlagRenderShaderLoadReportInformation": true,
-    "DFFlagRenderSmootherStepUpsampling2": false,
     "DFFlagRenderSunRaysMakeResolutionIndependent": true,
     "DFFlagRenderUseHardwareBufferTextureForWinVideoEncode": true,
     "DFFlagRepDelayClear": true,
