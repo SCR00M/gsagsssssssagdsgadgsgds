@@ -11,6 +11,7 @@
     "FFlagAppChatFixDialogClipping": "True",
     "FLogFRM": "0",
     "DFFlagAddConnectionTimeToDisconnectEvent": true,
+    "FIntAvatarPreviewerMaxSerializedModelToSendBytes": 196608,
     "DFFlagAddContextNamesToDurationLoggerEvents": true,
     "DFFlagAddedAngleBetweenCLI149162": true,
     "DFFlagAddFieldsToServerReplicator": true,
