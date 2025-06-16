@@ -4993,7 +4993,6 @@
     "DFIntTrackServerPhysicsPerfSessionNMinutes": 10,
     "DFIntTranslationLocaleIdParseErrorThrottleHundrethsPercentage": 10000,
     "DFIntTreeDiffModCheckShadowReportingRate": 100,
-    "DFIntTreeDiffWorldCFrameEpsilonMultiplier": 1000,
     "DFIntTTSRateLimitQps": 1000,
     "DFIntTTSRequestTimeoutMs": 4000,
     "DFIntUAWebLoginErrorHundredthsPercentage": 0,
