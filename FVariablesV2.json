@@ -9,6 +9,7 @@
     "DFFlagAddClientOsNameServerReplicatorStatsTemp": false,
     "FFlagEnableLogCullingTelemetryForControl": "True",
     "FFlagAppChatFixDialogClipping": "True",
+    "FLogFRM": "0",
     "DFFlagAddConnectionTimeToDisconnectEvent": true,
     "DFFlagAddContextNamesToDurationLoggerEvents": true,
     "DFFlagAddedAngleBetweenCLI149162": true,
