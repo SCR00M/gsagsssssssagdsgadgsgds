@@ -982,7 +982,6 @@
     "DFFlagHttpCurlPipeWaitEnabled": true,
     "DFFlagHttpDisableSslReleaseBuffers": true,
     "DFFlagHttpDisableTelemV1DownloadBwTracker": true,
-    "DFFlagHttpDiskMemoryCacheCounts": true,
     "DFFlagHttpDynamicSuccessStatusCode": true,
     "DFFlagHttpEnableBandwidthTrackingInStudio": true,
     "DFFlagHttpEnableLocalThrottlingOn5032": true,
