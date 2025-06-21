@@ -5,6 +5,7 @@
     "DFFlagActionStationDebounceInitialization": true,
     "DFFlagActiveCallAmpCanUseInExperienceChat4": true,
     "DFFlagAddAppVersionIntoV2POCStat": true,
+    "FStringSelectInSceneReportMenuOverrideUserIds": " ",
     "DFFlagAddClientChannelServerReplicatorStatsTemp": false,
     "DFFlagAddClientOsNameServerReplicatorStatsTemp": false,
     "FFlagEnableLogCullingTelemetryForControl": "True",
