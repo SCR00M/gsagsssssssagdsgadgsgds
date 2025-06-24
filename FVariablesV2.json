@@ -13,6 +13,7 @@
     "FLogFRM": "0",
     "FIntRomarkStartWithGraphicQualityLevel": -1,
     "DFFlagOnlyDecrementCompletenessIfReplicating": true,
+    "FFlagDebugPerfMode": false,
     "FFlagLuaMenuPerfImprovements": false,
     "DFFlagAddConnectionTimeToDisconnectEvent": true,
     "FIntAvatarPreviewerMaxSerializedModelToSendBytes": 196608,
