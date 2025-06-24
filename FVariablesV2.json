@@ -12,6 +12,8 @@
     "FFlagAppChatFixDialogClipping": "True",
     "FLogFRM": "0",
     "FIntRomarkStartWithGraphicQualityLevel": -1,
+    "DFFlagOnlyDecrementCompletenessIfReplicating": true,
+    "FFlagLuaMenuPerfImprovements": false,
     "DFFlagAddConnectionTimeToDisconnectEvent": true,
     "FIntAvatarPreviewerMaxSerializedModelToSendBytes": 196608,
     "DFFlagAddContextNamesToDurationLoggerEvents": true,
