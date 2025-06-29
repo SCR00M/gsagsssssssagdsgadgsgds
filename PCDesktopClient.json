@@ -1580,7 +1580,7 @@
 	"DFFlagLVMSGet2": true,
 	"DFFlagLVMSPut": true,
 	"DFFlagLabelSSQueueSizes": true,
-	"DFFlagLargeReplicatorEngineModule": false,
+	"DFFlagLargeReplicatorEngineModule": true,
 	"DFFlagLargeReplicatorValidateMigrate": false,
 	"DFFlagLargeReplicatorValidateMigrateCrash": false,
 	"DFFlagLargeReplicatorValidateMigrateEx": false,
