@@ -17472,5 +17472,6 @@
 	"SFFlagSimSolverMoverConstraintRootBehaviorSetDefaultEnabled": true,
 	"SupportRestartLuaAppNotification": true,
 	"UseBrowserForYoutubeOnMaquettes": true,
+	"FFlagTestForSomething": true,
 	"UseDefaultAppPromoCTAText": "true"
 }
